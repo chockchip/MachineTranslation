@@ -1,3 +1,4 @@
 1. Have to install tensor flow: pip install --upgrade tensorflow
 2. Have to install keras: pip install Keras
 3. Sample data: http://www.manythings.org/anki/
+4. 
